@@ -1,4 +1,4 @@
-#[prometheus_grafana_alertmanager_blackbox]
+[prometheus_grafana_alertmanager_blackbox]
 localhost
 
 [node_and_process_exporters]
